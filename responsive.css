@@ -1,0 +1,66 @@
+@media screen and (max-width: 600px) {
+  nav{
+    padding: 10px 40px;
+  }
+  .brand h1 {
+    font-size: 16px;
+  }
+  .brand img{
+    height: 15px;
+    width: 15px;
+  }
+ .links{
+  display: none;
+  
+ }
+ .icons{
+  gap: 1vw;
+ }
+ .icons i{
+  font-size: 12px;
+}
+.hero-img {
+  height: 15vh;
+  align-items: center;
+  padding: 0 10vw;
+}
+.elegant {
+  height: 5vh;
+}
+.elegant h1{
+  font-size: 25px;
+}
+.circle img {
+  height: 11vh;
+  width: 15vw;
+}
+.box img {
+  height: 11vh;
+  width: 15vw;
+}
+.catelog {
+  height: 11vh;
+  width: 15vw;
+}
+.catelog h2 ,i{
+  font-size: 8px;
+}
+.brand-txt{
+  flex-direction: column;
+}
+.comment{
+  width: 90vw;
+}
+.comment h3 {
+  font-size: 15px;
+}
+.comment p {
+  font-size: 10px;
+}
+.collection{
+  width: 50vw;
+}
+.collection h4, i{
+  font-size: 18px;
+}
+}
